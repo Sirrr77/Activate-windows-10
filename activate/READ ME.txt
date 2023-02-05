@@ -1,2 +1,0 @@
-1. run as admin / รันแอดมิน
-2. restart computer / รีคอม
