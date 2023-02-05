@@ -1,1 +1,1 @@
-# Windows 10 pro & home
+# Activate windows 10 pro & home
