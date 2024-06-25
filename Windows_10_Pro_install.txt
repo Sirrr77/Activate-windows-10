@@ -1,0 +1,9 @@
+OPEN CMD WITH ADMIN เปิด cmd แบบรันแอดมินนะครับ แล้วค่อยใส่ทีละอัน
+
+1 step : dism /Online /Get-TargetEditions
+
+2 step : sc config LicenseManager start= auto & net start LicenseManager
+
+3 step : sc config wuauserv start= auto & net start wuauserv
+
+4 step : changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T
